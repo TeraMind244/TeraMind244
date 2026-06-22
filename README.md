@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TeraMind244
-- 👋 My real name is Tri Che
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React Native
+- 👀 I’m most experienced in FE development, but I position myself as a fullstack developer.
 - 📫 You can reach me via [teramind244@gmail.com](mailto:teramind244@gmail.com)
 
 <!---
